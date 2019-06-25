@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FaceAncestor</string>
+    <string name="button_start">Empezar</string>
+    <string name="button_selfie">Camara</string>
+    <string name="button_gallery">Galería</string>
+    <string name="text_choosePicture">Elige una foto</string>
+    <string name="button_confirmpicture">Analizar</string>
+    <string name="button_retrypicture">Reintentar</string>
+    <string name="text_confirmPicture">Confirma foto</string>
+    <string name="text_analysing">Analizando</string>
+    <string name="info">info</string>
+    <string name="saganquote">\"Here it is. That\'s where we live. That\'s home. We humans are one species and this is our world. It is our responsibility to cherish it. Of all the worlds in our solar system, the only one so far as we know, graced by life.\"</string>
+    <string name="sagan_name">Carl Sagan</string>
+    <string name="instructionsTitle">¿Qué foto elegir?</string>
+    <string name="instructionsBody1">Elige o saca una foto donde tu cara esté bien iluminada y orientada hacia el telefono.</string>
+    <string name="instructionsBody2">Procura apartar el pelo de la cara y no uses gafas.</string>
+    <string name="pictureInstruction">Así</string>
+    <string name="next">Siguiente</string>
+    <string name="cancel">Cancelar</string>
+    <string name="dataTransfer">Cesion de datos</string>
+    <string name="DataUse">Al usar nuestra aplicación, autoriza al envio de las fotos que use a nuestro servidor. Ademas se podra recopilar información sobre el resultado del analisis con fines estadisticos y de publicidad. Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis.</string>
+    <string name="DataUse2">" Imagenes tomadas de Unsplash.com y de Vectors by www.Vecteezy.com Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusant doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis."</string>
+    <string name="RegisteredTrademark">FaceAncestor Registered TradeMark</string>
+    <string name="Results">Resultados</string>
+    <string name="switch_map_chart">Cambiar entre mapa/grafico</string>
+    <string name="done">Listo</string>
+</resources>
